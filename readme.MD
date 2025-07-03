@@ -19,7 +19,6 @@ It allows users to filter jobs by **company, location, keyword**, and visualize 
 
 ## 🚀 Demo
 https://jobdash.streamlit.app
-> You can run the dashboard locally using Streamlit or deploy it to Streamlit Cloud.
 
 ---
 
