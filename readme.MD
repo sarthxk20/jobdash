@@ -21,8 +21,6 @@ It allows users to filter jobs by **company, location, keyword**, and visualize 
 
 > You can run the dashboard locally using Streamlit or deploy it to Streamlit Cloud.
 
-![Dashboard Screenshot](./assets/dashboard_preview.png)
-
 ---
 
 ## 🛠 Tech Stack
@@ -34,5 +32,3 @@ It allows users to filter jobs by **company, location, keyword**, and visualize 
 - **Deployment:** Streamlit Cloud / GitHub
 
 ---
-
-## 📂 Project Structure
